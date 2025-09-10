@@ -1,0 +1,9 @@
+Package: moe.waru.safemodemodule
+Name: SafeModeModule
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Control Center module to enter Safe Mode
+Maintainer: waruhachi
+Author: waruhachi
+Section: Tweaks
+Depends: mobilesubstrate
